@@ -1,0 +1,11 @@
+var config ={};
+config.DB_PROVIDER ="MongoDB";
+config.DB_HOST ="localhost";
+config.DB_PORT=27017;
+config.DB_USER="root";
+config.DB_PASSWORD="0C617CF91B09F5DE669A5AFE2815DF13F21C8AE495C562845F843208CBDE7A1C";
+config.DB_DATABASE="social";
+config.API_USERS="U2FsdGVkX1+/kMQOUqiwpb0UmeQW+F96B2JY/njO49IjPf2Y+8YYlvDSlYqXegJRqEkQraG5NiEL/0YflAfPSyxjbxZhohhHn0a2fscSGGVUkYrrK9e0m5yuKl+wgg==";
+config.SECRET_KEY="secret key 123";
+config.ACCESS_TOKEN ="U2FsdGVkX1+3A+9jw68GLnv4b0eJLfspxdp8ZYzKqE1Cw0EIKUuXKnoFTIQU99qq1PxA6XsP";
+module.exports = config;

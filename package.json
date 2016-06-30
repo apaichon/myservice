@@ -1,0 +1,25 @@
+{
+  "name": "myservice",
+  "version": "1.0.0",
+  "description": "MyService is Rest Api Application for our core system.",
+  "main": "myservice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MyService"
+  ],
+  "author": "Apaichon Punopas",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": ">= 1.14.2",
+    "crypto-js": ">= 3.1.5",
+    "express": "^4.14.0",
+    "express-session": "^1.13.0",
+    "guid": "latest",
+    "mongodb": "^2.1.18",
+    "rootpath": ">= 0.1.2",
+    "useragent": "latest",
+    "winston": ">= 2.1.1"
+  }
+}
